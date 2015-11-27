@@ -3,8 +3,8 @@ ORIG_PN="gtksourceviewmm"
 inherit cross gtkmm
 
 NAME="mingw64-x86_64-gtksourceviewmm3.0"
-VERSION=3.2.0
-RELEASE=2
+VERSION=3.18.0
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="C++ GtkSourceView3 bindings for Win64 toolchain"
 DESCRIPTION="Official C++ bindings for the GtkSourceView library"
